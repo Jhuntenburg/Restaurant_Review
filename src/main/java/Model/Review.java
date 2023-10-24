@@ -27,5 +27,5 @@ public class Review {
     private Integer dairyScore;
     private Integer eggScore;
 
-//    private ReviewStatus status;
+   private ReviewStatus status;
 }
