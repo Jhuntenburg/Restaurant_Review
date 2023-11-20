@@ -20,6 +20,8 @@ public class Restaurant {
     @GeneratedValue
     private Long id;
 
+    private String name;
+
     private String line1;
     private String city;
     private String state;
